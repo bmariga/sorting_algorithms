@@ -13,3 +13,6 @@ Is an in-place comparison sorting algorithm. It has an O(n2) time complexity, wh
 QuickSort is a widely used sorting algorithm that follows the divide-and-conquer approach. It is known for its efficiency and typically outperforms other sorting algorithms, such as Bubble Sort or Insertion Sort, especially when * dealing with large datasets.
 
 The basic idea behind QuickSort is to select a pivot element from the array and partition the other elements into two sub-arrays based on whether they are less than or greater than the pivot. The sub-arrays are then recursively sorted using the same process until the entire array is sorted.
+
+# Authors
+Mariga Nyaribo
